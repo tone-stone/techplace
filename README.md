@@ -1,2 +1,0 @@
-# techplace
-techplace landing page
